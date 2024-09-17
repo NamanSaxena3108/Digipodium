@@ -1,0 +1,4 @@
+brand=lenovo
+model=ideapad
+ram=4Gb
+os=linux

@@ -1,0 +1,4 @@
+brand=legion 5 pro
+ram=16Gb
+graphics=RTX3060
+storage=1TB SSD

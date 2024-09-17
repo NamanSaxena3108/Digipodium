@@ -1,0 +1,2 @@
+this is w mode 
+This is written using a/append mode
